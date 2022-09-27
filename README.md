@@ -1,6 +1,3 @@
-# cheatsheet
-un po' di cheat sheet utili
-
 # BASH MAC TO WINDOWS CMD
 ## Clear the screen
 
